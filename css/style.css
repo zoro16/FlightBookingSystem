@@ -1,0 +1,41 @@
+
+.menu-options {
+	max-width: 500px;
+	padding: 15px;
+	margin: 0 auto;
+
+}
+
+
+.form-login {
+	max-width: 500px;
+	padding: 15px;
+	margin: 0 auto;
+
+}
+.addFlights {
+	max-width: 500px;
+	padding: 15px;
+	margin: 0 auto;
+
+}
+
+.container {
+
+	width:100%;
+	padding: 15px;
+	margin: 0 auto;
+}
+hr {
+	size:2;
+	width:auto;
+}
+
+#dateOfFlight, #dateOfFlight2 {
+	width: 604px;
+
+}
+
+body {
+    background: #f1f9f9 none repeat scroll 0 0;
+}
